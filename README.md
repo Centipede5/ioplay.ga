@@ -1,2 +1,2 @@
 # ioplay.ga
-io portal
+[ioplay.ga](http://ioplay.ga)
